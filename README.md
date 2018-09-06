@@ -1,5 +1,4 @@
-Sub-Development branch was copied to Master on June 30th, 2016.
-==============
+Forked for modification so that it works with ASF's SPI interface routines rather than the Arduino SPI library.
 
 MCP_CAN Library for Arduino
 ==============
